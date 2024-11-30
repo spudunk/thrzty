@@ -3,9 +3,9 @@
 ############################
 
 author:
-  name: "Qubt"
-  image: author.jpeg
-  greeting: "A personal blog theme for Hugo :evergreen_tree:"
+  name: thrzty
+  image: thrzty.jpeg
+  greeting: "multimedia artist at your service"
   icon: ":wave:"
 
 ############################
@@ -13,59 +13,59 @@ author:
 ############################
 
 links:
-  - github: https://github.com/chrede88/qubt
-  - facebook: https://github.com/chrede88/qubt
+  # - github: https://github.com/spudunk/thrzty
+  # - link: https://github.com/spudunk/thrzty#readme
+  - link: https://thrzty.com
+  # - website: https://thrzty.com
   # - x-twitter:
   # - mastodon:
-  # - linkedin: 
-  # - instagram:
-  # - reddit: 
-  # - telegram: 
-  # - whatsapp: 
-  # - signal: 
-  # - codepen: 
-  # - dev: 
-  # - email: 
-  # - website:
-  # - link: 
+  # - linkedin:
+  - instagram: https://www.instagram.com/thrzty
+  - reddit: https://www.reddit.com/user/thrzty/
+  # - telegram:
+  # - whatsapp:
+  # - signal:
+  # - codepen:
+  # - dev:
+  # - email:
   # - discord:
   # - orcid:
   # - slack:
-  # - stack-overflow: 
-  # - twitch: 
-  # - patreon: 
-  # - soundcloud:
-  # - dribbble: 
-  # - stack-exchange: 
-  # - tiktok: 
+  # - stack-overflow:
+  - twitch: https://www.twitch.tv/thrzty
+  # - patreon:
+  - soundcloud: https://soundcloud.com/thrzty
+  # - dribbble:
+  # - stack-exchange:
+  # - tiktok:
   # - youtube:
-  # - keybase: 
-  # - flickr: 
+  # - keybase:
+  # - flickr:
   # - tumblr:
-  # - kickstarter: 
+  # - kickstarter:
   # - snapchat:
-  # - bluesky: 
+  # - bluesky:
   # - bitbucket:
-  # - bandcamp: 
-  # - etsy: 
-  # - spotify: 
-  # - pinterest: 
-  # - strava: 
-  # - untappd: 
-  # - skype: 
-  # - medium: 
-  # - foursquare: 
-  # - apple: 
-  # - amazon: 
-  # - google: 
-  # - paypal: 
-  # - windows: 
+  # - bandcamp:
+  # - etsy:
+  - spotify: https://open.spotify.com/user/salixprolixa
+  # - pinterest:
+  # - strava:
+  # - untappd:
+  # - skype:
+  # - medium:
+  # - foursquare:
+  # - apple:
+  # - amazon:
+  # - google:
+  # - paypal:
+  # - windows:
 
 ###############################
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: "Qubt Theme"
-description: "Demo site build with Qubt & Hugo"
+title: thrzty
+description: "multimedia artist at your service"
 images:
-  - thumbnail.jpeg
+  - thumbnail.png

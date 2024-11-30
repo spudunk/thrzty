@@ -5,3 +5,7 @@
 
 # Apple stuff
 .DS_Store
+
+
+# Dont neet with Cloudflare
+public
