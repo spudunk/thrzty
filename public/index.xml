@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>thrzty</title>
+    <link>https://thrzty.com/</link>
+    <description>Recent content on thrzty</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://thrzty.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pen Work</title>
+      <link>https://thrzty.com/blog/post1/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://thrzty.com/blog/post1/</guid>
+      <description>A place where I share my pen drawings</description>
+    </item>
+    <item>
+      <title></title>
+      <link>https://thrzty.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://thrzty.com/about/</guid>
+      <description>&lt;p&gt;Add your Bio here!&amp;#x1f44d;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
