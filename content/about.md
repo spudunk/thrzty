@@ -6,7 +6,7 @@ type: misc
 jobTitle: Artist
 name: thrzty
 bio: true
-icon: "+1"
+icon: ":+1:"
 ---
 
 Grew up on Long Island
