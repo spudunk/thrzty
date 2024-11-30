@@ -3,10 +3,12 @@
 type: misc
 
 # change these
-jobTitle: Blogger
-name: spudunk
+jobTitle: Artist
+name: thrzty
 bio: true
-icon: ":coffee:"
+icon: "+1"
 ---
 
-Add your Bio here!:+1:
+Grew up on Long Island
+
+Living in Southern Oregon
